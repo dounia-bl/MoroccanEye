@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MoroccanEye</string>
+    <string name="_100_350">$100-$350</string>
+    <string name="_20_mars_2021">20 mars 2021</string>
+    <string name="price">price:</string>
+    <string name="nich_aux_contreforts_des_montagnes_d_atlas_la_vall_e_du_paradis_est_incontournable_pour_ceux_qui_veulent_voir_la_nature_marocaine_faites_une_balade_ou_aller_baigner_dans_les_lagunes_mais_attention_l_eau_est_froide_la_route_peut_tre_difficile_suivre_donc_une_excursion_guid_e_d_une_journ_e_ou_d_une_demi_journ_e_est_conseill_e">Niché aux contreforts des montagnes d’Atlas, la Vallée du Paradis est incontournable pour ceux qui veulent voir la nature marocaine. Faites une balade ou aller baigner dans les lagunes—mais attention, l’eau est froide. La route peut être difficile à suivre, donc une excursion guidée d’une journée ou d\'une demi-journée est conseillée.</string>
+    <string name="commencez_r_server_votre_voyage">commencez à réserver votre voyage</string>
+    <string name="a_propos">A propos</string>
+    <string name="todo1" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="galerie">Galerie</string>
+    <string name="todo5">TODO</string>
+    <string name="_4_5">4,5</string>
+    <string name="vol_disponible">vol disponible:</string>
+    <string name="todo6">TODO</string>
+    <string name="la_vall_e_du_paradis_agadir">la Vallée du Paradis, Agadir</string>
+    <string name="todo">TODO</string>
+</resources>
